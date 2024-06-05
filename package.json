@@ -1,5 +1,5 @@
 {
-  "name": "niivue-brainchop",
+  "name": "niivue-neglect",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -9,8 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@niivue/niivue":"^0.43.3",
-    "gl-matrix": "^3.4.3"
+    "@niivue/niivue":"^0.43.3"
   },
   "devDependencies": {
     "vite": "^5.2.0"
