@@ -1,10 +1,11 @@
 # NiiVue brainchop
 
-This web page will estimate . 
+This repository is obsolete and archived. Please visit [the new repository](https://github.com/niivue/niivue-neglect). 
 
 ## Live preview
 
-https://neurolabusc.github.io/niivue-neglect/
+[live demo](https://niivue.github.io/niivue-neglect/)
+
 
 ## Getting started
 
